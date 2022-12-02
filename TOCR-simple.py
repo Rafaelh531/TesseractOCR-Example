@@ -7,7 +7,7 @@ from PyPDF2 import PdfFileWriter, PdfFileReader
 from PIL import Image, ImageEnhance, ImageFilter
 import re
 
-#inputpdf = PdfFileReader(open("C:\\Users\\rafa6899\\Downloads\\teste\\SMIDT002518-20 Resposta  ENE046555-19.pdf", "rb"))
+#inputpdf = PdfFileReader(open("C:\\Users\\rafa6899\\Downloads\\teste\eddff.pdf", "rb"))
 
 #for i in range(inputpdf.numPages):
   #  output = PdfFileWriter()
